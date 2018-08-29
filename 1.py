@@ -1,2 +1,2 @@
 a=1
-print(f'{a}')
+print(f'{a} is the value')
